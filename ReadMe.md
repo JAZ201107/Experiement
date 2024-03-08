@@ -7,8 +7,10 @@ This repository contains some notebooks about:
     * Other Task
         * Normalization
 
+
 * Hugging Face:
     * Transformer Based Applications
+
 
 * Paper Replication:
     * Transformer
@@ -16,4 +18,7 @@ This repository contains some notebooks about:
     * BERT
     * GPT
     * ...
-* Others 
+ 
+      
+* Contrastive Learning
+  * [SimCLR]()
