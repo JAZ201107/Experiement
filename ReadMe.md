@@ -14,7 +14,7 @@ This repository contains some notebooks about:
 
 - Paper Replication:
   - Transformer
-  - (Vision Transformer)[https://github.com/JAZ201107/DL-Experiments/blob/main/build-classic-cnn-and-vit-from-scratch.ipynb]: In this project, I implement several classic CNN architectures (ResNet, GoogleNet, DenseNet, VGG, EfficientNet, MobileNet)
+  - [Vision Transformer](https://github.com/JAZ201107/DL-Experiments/blob/main/build-classic-cnn-and-vit-from-scratch.ipynb): In this project, I implement several classic CNN architectures (ResNet, GoogleNet, DenseNet, VGG, EfficientNet, MobileNet)
   - BERT
   - GPT
   - ...
