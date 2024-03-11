@@ -7,6 +7,7 @@ This repository contains some notebooks about:
   - Initialization
   - Other Task
     - Normalization
+    - [Attentions](https://github.com/JAZ201107/DL-Experiments/blob/main/understand-and-visualize-attention-mechanism.ipynb)
 
 - Hugging Face:
 
